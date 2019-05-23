@@ -1,0 +1,39 @@
+﻿Series_Code,Series_Name,Description
+EG.ELC.ACCS.ZS,Electricity Access,Access to electricity (% of population)
+EG.ELC.ACCS.UR.ZS,Urban Electricity Access,"Access to electricity, urban (% of urban population)"
+NY.ADJ.DMIN.CD,Mineral Depletion,Adjusted savings: mineral depletion (current US$)
+SP.DYN.CBRT.IN,Birth Rate,"Birth rate, crude (per 1,000 people)"
+ER.FSH.CAPT.MT,Fisheries Production,Capture fisheries production (metric tons)
+SP.DYN.CDRT.IN,Death Rate,"Death rate, crude (per 1,000 people)"
+SP.DYN.TFRT.IN,Fertility Rate,"Fertility rate, total (births per woman)"
+SM.POP.TOTL,Total Migrant Stock,"International migrant stock, total"
+SM.POP.TOTL.ZS,International Migrant Stock,International migrant stock (% of population)
+SH.H2O.BASW.ZS,Drinking Water Services,People using at least basic drinking water services (% of population)
+SP.POP.GROW,Population Growth,Population growth (annual %)
+SP.POP.TOTL,Total Population,"Population, total"
+EG.ELC.RNEW.ZS,Renewable Electricity,Renewable electricity output (% of total electricity output)
+SP.RUR.TOTL,Rural Population,Rural population
+SP.RUR.TOTL.ZS,Rural Population,Rural population (% of total population)
+ER.FSH.PROD.MT,Fisheries Production,Total fisheries production (metric tons)
+SP.URB.TOTL.IN.ZS,Urban Population,Urban population (% of total)
+SP.URB.GROW,Urban Population Growth,Urban population growth (annual %)
+NY.GDP.PCAP.CD,GDP per Capita,GDP per capita (current US$)
+SH.XPD.CHEX.GD.ZS,Health Expenditure,Current health expenditure (% of GDP)
+SP.DYN.LE00.IN,Life Expectancy,"Life expectancy at birth, total (years)"
+SH.TBS.INCD,Tuberculosis Incidents,"Incidence of tuberculosis (per 100,000 people)"
+SH.TBS.DTEC.ZS,Tuberculosis Detection,"Tuberculosis case detection rate (%, all forms)"
+SH.TBS.MORT,Tuberculosis Death Rate,"Tuberculosis death rate (per 100,000 people)"
+SP.ADO.TFRT,Fertility Rate,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+SH.XPD.CHEX.PC.CD,Health Expenditure,Current health expenditure per capita (current US$)
+NY.GNP.PCAP.CD,GNI per Capita,"GNI per capita, Atlas method (current US$)"
+SH.IMM.IDPT,Immunization,"Immunization, DPT (% of children ages 12-23 months)"
+SH.DTH.IMRT,Infant Deaths,Number of infant deaths
+SH.STA.OWAD.ZS,Overweight %,Prevalence of overweight (% of adults)
+SP.POP.BRTH.MF,Sex Ratio,Sex ratio at birth (male births per female births)
+SL.UEM.TOTL.ZS,Unemployment,"Unemployment, total (% of total labor force)"
+AG.LND.ARBL.HA.PC,Arable Land,Arable land (hectares per person)
+IT.MLT.MAIN.P2,Telephone Subscriptions,Fixed telephone subscriptions (per 100 people)
+AG.PRD.FOOD.XD,Food Production Index,Food production index (2004-2006 = 100)
+NY.GDP.PETR.RT.ZS,Oil Rents,Oil rents (% of GDP)
+EN.ATM.PM25.MC.ZS,Air Pollution,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)"
+SH.ALC.PCAP.LI,Alcohol Consumption,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)"

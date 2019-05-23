@@ -1,0 +1,30 @@
+.subunit-boundary {
+  fill: none;
+  stroke: #010000;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
+
+.subunit0 { fill: #9F9C9C; }
+.subunit13 { fill: #4A0202; }
+.subunit12 { fill: #7b0404; }
+.subunit11 { fill: #ad0505; }
+.subunit10 { fill: #dd0808; }
+.subunit9 { fill: #cc5200; }
+.subunit8 { fill: #FF6600; }
+.subunit7 { fill: #FF944D; }
+.subunit6 { fill: #FFFF1A; }
+.subunit5 { fill: #E6E600; }
+.subunit4 { fill: #8CFF66; }
+.subunit3 { fill: #39E600; }
+.subunit2 { fill: #269900; }
+.subunit1 { fill: #1a6600; }
+
+.child {
+  flex-grow: 1; /* each flex-item grows and takes 1/3 of the parent's width */
+  text-align: center;
+  border: 1px solid;
+}
+.parent {
+  display: flex; /* displays flex-items (children) inline */
+}

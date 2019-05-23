@@ -141,7 +141,7 @@ strong {
 }
 
 small {
-  font-size: 80%;
+  font-size: 90%;
 }
 
 sub,
@@ -4890,7 +4890,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  /*background-color: #fff;*/
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
@@ -4916,6 +4916,8 @@ input[type="button"].btn-block {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1.25rem;
+  background-image: url('../images/images4.jpg');
+  background-size: contain;
 }
 
 .card-title {
@@ -4945,6 +4947,8 @@ input[type="button"].btn-block {
   color: inherit;
   background-color: rgba(0, 0, 0, 0.03);
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .card-header:first-child {
@@ -10600,6 +10604,7 @@ body {
   font-size: 5rem;
   -webkit-transform: rotate(15deg);
   transform: rotate(15deg);
+  fill: black;
 }
 
 @media (min-width: 576px) {
